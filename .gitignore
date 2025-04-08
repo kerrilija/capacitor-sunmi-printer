@@ -1,5 +1,5 @@
 # node files
-dist
+#dist - published the forked repo
 node_modules
 
 # iOS files
